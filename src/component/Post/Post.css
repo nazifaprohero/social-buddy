@@ -1,0 +1,13 @@
+.post{
+    border: 1px solid lightgray;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    color: blue;
+
+}
+.title{
+    color: purple;
+    font-size: larger;
+}
+ 
